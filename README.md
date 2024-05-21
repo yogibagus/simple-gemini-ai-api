@@ -22,8 +22,8 @@ This project is an Express.js server that provides an API endpoint for generatin
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/yourusername/text-generation-api.git
-    cd text-generation-api
+    git clone https://github.com/yogibagus/simple-gemini-ai-api
+    cd simple-gemini-ai-api
     ```
 
 2. Install the dependencies
